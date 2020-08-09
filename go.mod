@@ -1,4 +1,4 @@
-module github.com/adrg/xdg
+module github.com/pbarker/xdg
 
 go 1.14
 
